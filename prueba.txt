@@ -1,0 +1,3 @@
+Las melodies no es otra cosa que presionar una tecla después de otra, por lo que si en Vim tenemos el comando ge significa que primero hay que presionar la g y después la e.
+
+Una vez explicado esto, continuemos. 2
